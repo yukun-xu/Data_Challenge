@@ -1,0 +1,1 @@
+This is the data challenge submitted to Two Sigma. All rights reserved.
